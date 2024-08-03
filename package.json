@@ -37,5 +37,10 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.4.7"
-  }
+  },
+  "description": "My first react app",
+  "main": "tailwind.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
